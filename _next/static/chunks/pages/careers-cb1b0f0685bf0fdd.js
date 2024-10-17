@@ -617,10 +617,10 @@
                 openGraph: {
                   title: d,
                   description: m,
-                  url: "",
+                  url: "https://test-murex-zeta.vercel.app/careers.html",
                   images: [
                     {
-                      url: "".concat(
+                      url: "https://test-murex-zeta.vercel.app/careers.html".concat(
                         o,
                         "/images/career/careers_og.jpg"
                       ),
