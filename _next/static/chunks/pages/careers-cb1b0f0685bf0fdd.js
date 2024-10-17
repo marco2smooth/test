@@ -607,7 +607,7 @@
         ee = (e) => {
           let { jobs: t, placeholderJob: r, contributors: s } = e,
             { basePath: o } = (0, n.useRouter)(),
-            d = "Careers | Supabase",
+            d = "Careers | Farcal",
             m = "Help build software developers love";
           return (0, a.jsxs)(a.Fragment, {
             children: [
