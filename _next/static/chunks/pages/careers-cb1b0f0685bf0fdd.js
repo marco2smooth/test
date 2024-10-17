@@ -617,10 +617,10 @@
                 openGraph: {
                   title: d,
                   description: m,
-                  url: "https://supabase.com/careers",
+                  url: "",
                   images: [
                     {
-                      url: "https://supabase.com".concat(
+                      url: "".concat(
                         o,
                         "/images/career/careers_og.jpg"
                       ),
@@ -639,7 +639,7 @@
                         children: [
                           (0, a.jsx)("span", {
                             className: "sr-only",
-                            children: "Supabase ",
+                            children: "Farcal",
                           }),
                           "Careers",
                         ],
